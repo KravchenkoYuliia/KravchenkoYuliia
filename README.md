@@ -1,10 +1,16 @@
 #
 # Hi, I'm Yuliia
 
-💻 Student at [42 School](https://42.fr/en/homepage/)
+🔐 Cybersecurity student at [42 School](https://42.fr/en/homepage/)
 
-🌱 Learning C, C++, algorithms, data structures and Unix programming
+🌱 Learning cybersecurity through CTFs, system programming and hands-on security projects
 
-🤓 I love exploring how the world of programming works and constantly learning something new
+💻 Strong foundation in C, C++, Python, Linux, Shell, Git, Docker and Virtual Machines
+
+🌐 Exploring web security, HTTP/CGI, vulnerabilities, privilege escalation, Unix permissions, SUID, network traffic and system internals
+
+⚙️ Also working with x86-64 Assembly, ReactJS, Nginx, Valgrind
+
+🤓 I enjoy understanding how systems work under the hood
 
 📚 Big fan of books, cats and continuous self-development
